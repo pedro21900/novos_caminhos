@@ -374,3 +374,32 @@ Stack trace:
 [08-Nov-2020 15:07:27 America/Araguaina] PHP Fatal error:  require(): Failed opening required '/usr/share/nginx/html/../framework/config.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/index copy.php on line 2
 [08-Nov-2020 15:07:27 America/Araguaina] PHP Stack trace:
 [08-Nov-2020 15:07:27 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index copy.php:0
+[09-Nov-2020 16:45:33 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 4
+[09-Nov-2020 16:45:33 America/Araguaina] PHP Stack trace:
+[09-Nov-2020 16:45:33 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php:0
+[09-Nov-2020 16:45:44 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 4
+[09-Nov-2020 16:45:44 America/Araguaina] PHP Stack trace:
+[09-Nov-2020 16:45:44 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php:0
+[09-Nov-2020 16:45:45 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 4
+[09-Nov-2020 16:45:45 America/Araguaina] PHP Stack trace:
+[09-Nov-2020 16:45:45 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php:0
+[09-Nov-2020 16:45:46 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 4
+[09-Nov-2020 16:45:46 America/Araguaina] PHP Stack trace:
+[09-Nov-2020 16:45:46 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php:0
+[09-Nov-2020 16:45:49 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 4
+[09-Nov-2020 16:45:49 America/Araguaina] PHP Stack trace:
+[09-Nov-2020 16:45:49 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php:0
+[09-Nov-2020 17:08:02 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '{' or '$' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 10
+[09-Nov-2020 17:08:26 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '{' or '$' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 11
+[09-Nov-2020 17:08:33 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '{' or '$' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 11
+[09-Nov-2020 17:08:47 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '{' or '$' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 11
+[09-Nov-2020 17:10:09 America/Araguaina] PHP Parse error:  syntax error, unexpected '=' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 14
+[09-Nov-2020 17:11:03 America/Araguaina] PHP Parse error:  syntax error, unexpected '=' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 15
+[09-Nov-2020 17:11:16 America/Araguaina] PHP Parse error:  syntax error, unexpected '=' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 15
+[09-Nov-2020 17:11:53 America/Araguaina] PHP Parse error:  syntax error, unexpected '=' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 15
+[09-Nov-2020 17:19:36 America/Araguaina] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PHPClassSession(), 1 passed in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 10 and at least 2 expected in /usr/share/nginx/html/framework/config.php:47
+Stack trace:
+#0 /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php(10): PHPClassSession()
+#1 {main}
+  thrown in /usr/share/nginx/html/framework/config.php on line 47
+[09-Nov-2020 17:35:25 America/Araguaina] PHP Parse error:  syntax error, unexpected 'PHPClassSession' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 21
