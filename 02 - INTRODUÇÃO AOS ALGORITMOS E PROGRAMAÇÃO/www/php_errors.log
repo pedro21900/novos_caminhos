@@ -1115,3 +1115,270 @@ Stack trace:
   thrown in /usr/share/nginx/html/2.12_Funcoes_para_Arrays/index2.php on line 27
 [17-Nov-2020 11:50:24 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/2.12_Funcoes_para_Arrays/index2.php on line 33
 [17-Nov-2020 11:50:24 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/2.12_Funcoes_para_Arrays/index2.php on line 33
+[17-Nov-2020 16:00:32 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.13_Classes_propriedades_objetos/User2.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 6
+[17-Nov-2020 16:00:32 America/Araguaina] PHP Stack trace:
+[17-Nov-2020 16:00:32 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:0
+[17-Nov-2020 16:01:06 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:01:23 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:02:07 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:9
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 9
+[17-Nov-2020 16:02:14 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:03:00 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:03:06 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:03:07 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:03:08 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:04:03 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:04:53 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:04:54 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:05:01 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User2' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:05:01 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User2' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:05:03 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User2' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:05:03 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User2' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:05:03 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User2' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:05:05 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User2' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:05:06 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User2' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:05:13 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:06:34 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:06:44 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:06:53 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/classes/User2.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 6
+[17-Nov-2020 16:06:53 America/Araguaina] PHP Stack trace:
+[17-Nov-2020 16:06:53 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:0
+[17-Nov-2020 16:07:10 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:07:31 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:07:36 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:08:04 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:08:14 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:08:20 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:08:27 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:08:41 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:08:50 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.13_Classes_propriedades_objetos/classes/User2.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 6
+[17-Nov-2020 16:08:50 America/Araguaina] PHP Stack trace:
+[17-Nov-2020 16:08:50 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:0
+[17-Nov-2020 16:08:59 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:09:11 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.13_Classes_propriedades_objetos/classes/User2.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 6
+[17-Nov-2020 16:09:11 America/Araguaina] PHP Stack trace:
+[17-Nov-2020 16:09:11 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:0
+[17-Nov-2020 16:09:12 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.13_Classes_propriedades_objetos/classes/User2.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 6
+[17-Nov-2020 16:09:12 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.13_Classes_propriedades_objetos/classes/User2.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 6
+[17-Nov-2020 16:09:12 America/Araguaina] PHP Stack trace:
+[17-Nov-2020 16:09:12 America/Araguaina] PHP Stack trace:
+[17-Nov-2020 16:09:12 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:0
+[17-Nov-2020 16:09:12 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:0
+[17-Nov-2020 16:09:12 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.13_Classes_propriedades_objetos/classes/User2.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 6
+[17-Nov-2020 16:09:12 America/Araguaina] PHP Stack trace:
+[17-Nov-2020 16:09:12 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:0
+[17-Nov-2020 16:09:14 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:09:14 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:09:19 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:8
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 8
+[17-Nov-2020 16:18:51 America/Araguaina] PHP Fatal error:  Uncaught Error: Cannot access private property User::$fistName in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 18
+[17-Nov-2020 16:19:59 America/Araguaina] PHP Fatal error:  Uncaught Error: Cannot access private property User::$fistName in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 18
+[17-Nov-2020 16:20:07 America/Araguaina] PHP Fatal error:  Uncaught Error: Cannot access private property User::$fistName in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 18
+[17-Nov-2020 16:20:26 America/Araguaina] PHP Fatal error:  Uncaught Error: Cannot access private property User::$fistName in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 18
+[17-Nov-2020 16:20:42 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined method User::getFirstName() in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:22
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 22
+[17-Nov-2020 16:20:42 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined method User::getFirstName() in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:22
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 22
+[17-Nov-2020 16:24:02 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined method User::getFirstName() in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:22
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 22
+[17-Nov-2020 16:26:31 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined method User::getFirstName() in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:22
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 22
+[17-Nov-2020 16:27:09 America/Araguaina] PHP Fatal error:  Uncaught Error: Cannot access private property User::$fistName in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 18
+[17-Nov-2020 16:32:01 America/Araguaina] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 28
+[17-Nov-2020 16:32:33 America/Araguaina] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 28
+[17-Nov-2020 16:38:10 America/Araguaina] PHP Parse error:  syntax error, unexpected '@', expecting function (T_FUNCTION) or const (T_CONST) in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/classes/User2.php on line 58
+[17-Nov-2020 16:38:10 America/Araguaina] PHP Parse error:  syntax error, unexpected '@', expecting function (T_FUNCTION) or const (T_CONST) in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/classes/User2.php on line 58
+[17-Nov-2020 16:38:10 America/Araguaina] PHP Parse error:  syntax error, unexpected '@', expecting function (T_FUNCTION) or const (T_CONST) in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/classes/User2.php on line 58
+[17-Nov-2020 16:39:26 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'User' not found in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php:12
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 12
+[17-Nov-2020 16:46:57 America/Araguaina] PHP Parse error:  syntax error, unexpected '}' in /usr/share/nginx/html/2.13_Classes_propriedades_objetos/index2.php on line 29
+[19-Nov-2020 09:44:21 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/n/../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/n/index.php on line 14
+[19-Nov-2020 09:44:21 America/Araguaina] PHP Stack trace:
+[19-Nov-2020 09:44:21 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/n/index.php:0
+[19-Nov-2020 10:01:34 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.16_Associacao/../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.16_Associacao/index.php on line 9
+[19-Nov-2020 10:01:34 America/Araguaina] PHP Stack trace:
+[19-Nov-2020 10:01:34 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.16_Associacao/index.php:0
+[19-Nov-2020 10:01:39 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.17_Composicao/../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.17_Composicao/index.php on line 9
+[19-Nov-2020 10:01:39 America/Araguaina] PHP Stack trace:
+[19-Nov-2020 10:01:39 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.17_Composicao/index.php:0
+[19-Nov-2020 10:01:42 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/2.18_Heranca/../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/2.18_Heranca/index.php on line 11
+[19-Nov-2020 10:01:42 America/Araguaina] PHP Stack trace:
+[19-Nov-2020 10:01:42 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.18_Heranca/index.php:0
+[19-Nov-2020 10:03:37 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Company' not found in /usr/share/nginx/html/2.16_Associacao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.16_Associacao/index.php on line 18
+[19-Nov-2020 10:11:27 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Company' not found in /usr/share/nginx/html/2.16_Associacao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.16_Associacao/index.php on line 18
+[19-Nov-2020 10:13:30 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Company' not found in /usr/share/nginx/html/2.16_Associacao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.16_Associacao/index.php on line 18
+[19-Nov-2020 10:13:33 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Company' not found in /usr/share/nginx/html/2.16_Associacao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.16_Associacao/index.php on line 18
+[19-Nov-2020 10:13:33 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Company' not found in /usr/share/nginx/html/2.16_Associacao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.16_Associacao/index.php on line 18
+[19-Nov-2020 10:13:33 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Company' not found in /usr/share/nginx/html/2.16_Associacao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.16_Associacao/index.php on line 18
+[19-Nov-2020 10:13:51 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Company' not found in /usr/share/nginx/html/2.16_Associacao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.16_Associacao/index.php on line 18
+[19-Nov-2020 10:14:19 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Company' not found in /usr/share/nginx/html/2.16_Associacao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.16_Associacao/index.php on line 18
+[19-Nov-2020 10:15:03 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Company' not found in /usr/share/nginx/html/2.16_Associacao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.16_Associacao/index.php on line 18
+[19-Nov-2020 10:15:36 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Company' not found in /usr/share/nginx/html/2.16_Associacao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.16_Associacao/index.php on line 18
+[19-Nov-2020 10:15:49 America/Araguaina] PHP Fatal error:  Uncaught Error: Class 'classes\Company' not found in /usr/share/nginx/html/2.16_Associacao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/2.16_Associacao/index.php on line 18
+[19-Nov-2020 10:16:43 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/vendor/composer/autoload_real.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/vendor/autoload.php on line 5
+[19-Nov-2020 10:16:43 America/Araguaina] PHP Stack trace:
+[19-Nov-2020 10:16:43 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.16_Associacao/index.php:0
+[19-Nov-2020 10:16:43 America/Araguaina] PHP   2. require_once() /usr/share/nginx/html/2.16_Associacao/index.php:9
+[19-Nov-2020 10:17:37 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/vendor/composer/autoload_real.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/vendor/autoload.php on line 5
+[19-Nov-2020 10:17:37 America/Araguaina] PHP Stack trace:
+[19-Nov-2020 10:17:37 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.16_Associacao/index.php:0
+[19-Nov-2020 10:17:37 America/Araguaina] PHP   2. require_once() /usr/share/nginx/html/2.16_Associacao/index.php:9
+[19-Nov-2020 10:17:54 America/Araguaina] PHP Fatal error:  require_once(): Failed opening required '/usr/share/nginx/html/vendor/composer/autoload_real.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/vendor/autoload.php on line 5
+[19-Nov-2020 10:17:54 America/Araguaina] PHP Stack trace:
+[19-Nov-2020 10:17:54 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/2.16_Associacao/index.php:0
+[19-Nov-2020 10:17:54 America/Araguaina] PHP   2. require_once() /usr/share/nginx/html/2.16_Associacao/index.php:9

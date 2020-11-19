@@ -1,12 +1,12 @@
 {
-    "name": "iuryprof/ifto",
+    "name": "user/user-pc",
     "description": "Curso de Programador WEB",
     "minimum-stability": "stable",
     "authors": [
         {
-            "name": "Iury Gomes de Oliveira",
-            "email": "iury.oliveira@ifto.edu.br",
-            "homepage": "https://github.com/iurygdeoliveira",
+            "name": "Pedro Lenonn Oliveria da Silva",
+            "email": "pedro21900@hotmail.com",
+            "homepage": "https://github.com/pedro21900",
             "role": "Developer"
         }
     ],
@@ -17,8 +17,5 @@
         "psr-4": {
             "source\\": "source/"
         }
-    },
-    "require": {
-        "phpmailer/phpmailer": "v6.1.7"
     }
 }
