@@ -1,13 +1,14 @@
 {
     "name": "user/user-pc",
-    "description": "Curso de Programador WEB",
+    "description": "Cuso de Programador WEB",
     "minimum-stability": "stable",
     "authors": [
         {
-            "name": "Pedro Lenonn Oliveria da Silva",
+            "name": "Pedro Lenonn Oliveira da silva",
             "email": "pedro21900@hotmail.com",
             "homepage": "https://github.com/pedro21900",
-            "role": "Developer"
+            "role": "Engenheiro e Programador"
+
         }
     ],
     "config": {
@@ -15,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "source\\": "source/"
+            "classes\\":"classes/"
         }
     }
 }
